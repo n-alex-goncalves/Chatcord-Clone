@@ -1,4 +1,4 @@
-# Chatcord-Clone
+# Chatcord Clone Application
 
 <a href = "https://chatcord-clone.herokuapp.com/">
 <img src="img/logo.PNG">
